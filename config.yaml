@@ -1,0 +1,5 @@
+mem_table_size: 67108864 # 64MB in bytes
+data_dir: "./data"
+max_level: 7
+level_size: 10
+compact_interval: 300 # 5 minutes in seconds
